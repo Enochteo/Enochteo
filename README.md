@@ -28,4 +28,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Enochteo&icon=9&color=1)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=Enochteo)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
