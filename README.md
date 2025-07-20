@@ -31,4 +31,4 @@ Engineering student | 🔧 Embedded Systems + Software Developer | AI Explorer
 [![](https://visitcount.itsvg.in/api?id=Enochteo&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ![](https://komarev.com/ghpvc/?username=Enochteo)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created wit GPRM ( https://gprm.itsvg.in ) -->
