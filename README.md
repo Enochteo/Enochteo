@@ -5,7 +5,7 @@ Engineering student | 🔧 Embedded Systems + Software Developer | AI Explorer
 
 
 ## 💫 About Me:<br>
-  -👀 I’m interested in **embedded systems, AI-powered tools, and scalable full-stack applications**<br>- 🌱 I’m currently working on **Job simulations, Open Source Contributions, and other full stack projects**<br>- 💞️ I’m looking to collaborate on **projects that connect software with hardware, or tools that make tech smarter**<br>- 📫 How to reach me: **enochowoade@gmail.com**  <br>  or [LinkedIn](https://linkedin.com/in/enoch-owoade)<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun fact: I can go from wiring a servo to deploying a Flask site.
+  -👀 I’m interested in **embedded systems, AI-powered tools, and scalable full-stack applications**<br>- 🌱 I’m currently working on **Job simulations(Backend development), Open Source Contributions, and other full stack projects**<br>- 💞️ I’m looking to collaborate on **projects that connect software with hardware, or tools that make tech smarter**<br>- 📫 How to reach me: **enochowoade@gmail.com**  <br>  or [LinkedIn](https://linkedin.com/in/enoch-owoade)<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun fact: I can go from wiring a servo to deploying a Flask site.
 
 
 ## Socials:
