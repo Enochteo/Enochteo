@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enoch Owoade
 
-Engineering student | 🔧 Embedded Systems + Software Developer | AI Explorer  
+Engineering student | 🔧 Embedded Systems + Full stack Software Developer | AI Explorer  
 🎓 Electronics Engineering Tech + CS Minor @ GSU |
 
 
